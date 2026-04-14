@@ -3,12 +3,10 @@
 ### Caso de Uso
 
 #### Problema
-> Qual problema financeiro seu agente resolve?
 
 Muitas pessoas vivem com ansiedade financeira, sem clareza dos seus gastos, o que gera estresse, falta de controle e dificuldade em atingir objetivos como economizar ou investir.
 
 #### Solução
-> Como o agente resolve esse problema de forma proativa?
 
 O agente funciona como um assistente financeiro pessoal que analisa informações fornecidas pelo usuário, como gastos, metas e hábitos financeiros, para oferecer orientação prática e acessível.
 
@@ -17,7 +15,6 @@ A inteligência do agente roda localmente por meio de um modelo LLM executado vi
 Além disso, o agente pode gerar insights sobre padrões de consumo, ajudando o usuário a tomar decisões mais conscientes ao longo do tempo.
 
 #### Público-Alvo
-> Quem vai usar esse agente?
 
 - Jovens adultos (18–35 anos)
 - Pessoas que querem começar a se organizar financeiramente
@@ -49,12 +46,10 @@ Ajudar o usuário a organizar sua vida financeira, trazendo clareza sobre seus g
 Finny
 
 #### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
 
 Consultivo, educativo e motivador. O agente atua como um guia financeiro que orienta sem julgamento, incentivando o usuário a melhorar sua relação com o dinheiro de forma leve e prática.
 
 #### Tom de Comunicação
-> Formal, informal, técnico, acessível?
 
 Acessível, amigável e levemente informal, evitando termos técnicos complexos e priorizando clareza.
 
@@ -104,7 +99,6 @@ flowchart TD
 - [x] Evita recomendações sensíveis sem contexto suficiente
 
 #### Limitações Declaradas
-> O que o agente NÃO faz?
 
 - Não substitui um consultor financeiro profissional
 - Não realiza investimentos automaticamente
