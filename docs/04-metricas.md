@@ -2,8 +2,6 @@
 
 ### Como Avaliar seu Agente
 
-A avaliação pode ser feita de duas formas complementares:
-
 A avaliação do Finny foi realizada por meio de testes estruturados, simulando interações reais com base nos dados da pasta data, além de validações manuais das respostas geradas.
 Os testes consideram o perfil de um cliente fictício (João Silva), garantindo que as respostas estejam alinhadas ao contexto fornecido.
 
